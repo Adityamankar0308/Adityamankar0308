@@ -16,17 +16,17 @@ I’m a passionate Cloud Engineer with hands-on experience in designing, deployi
 
 ### 🖥️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,mongodb,mysql,postgres" />
 </p>
 
 ### 🛠️ Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
