@@ -58,8 +58,8 @@ I’m a passionate Cloud Engineer with hands-on experience in designing, deployi
 
 ## 🤝 Let’s Connect
 - 💼 LinkedIn: *Add your link*
-- 🌐 Portfolio: *Add your link*
-- 📫 Email: *your.email@example.com*
+- 🌐 Portfolio: *-----*
+- 📫 Email: *admankar2004@gmail.com*
 
 ---
 
