@@ -33,9 +33,13 @@ I’m a passionate Cloud Engineer with hands-on experience in designing, deployi
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+## 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 ---
 
