@@ -31,23 +31,12 @@ I’m a passionate Cloud Engineer with hands-on experience in designing, deployi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-## 📊 GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- 🔭 Actively building cloud & full-stack projects  
+- 🚀 Focused on AWS, Docker & Backend Development  
+- 📈 Continuously improving problem-solving skills  
+- 💡 Passionate about scalable systems & clean code
 
 ---
 
